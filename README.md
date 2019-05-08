@@ -13,13 +13,17 @@ SOS will be a free app, with opportunites to monetize, such as "suggested" resto
 
 Legal
 
-TBD
+For now, SOS is open source and has no End User License Agreement or Service Agreement.
 
 Technical
 
 SOS is intended to work on mobile platforms - potentially utilizing React Native.
 
-DBMS is yet to be determined
+DBMS is yet to be determined.
+
+SOS is leaning towards using a document based NoSQL database.
+
+Contact Austin Tebbs if youre interested in joining the team!
 
 
 
