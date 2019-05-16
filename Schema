@@ -1,3 +1,4 @@
+
 *This table will hold basic information relating to a User, the ProfileID will contain more references to specific aspects of the user's profile
 
 User(**UserID**, Name, Password, ProfileID)
@@ -18,5 +19,5 @@ Portfolio(**PortfolioID**, gallery)
 *Reviews will have an array of text reviews written by customers
 Reviews(**ReviewsID**, reviews)
 
-**Keys are in bold**
+**Keys**
 Every user will have a Profile which will contain all of the above things. In an attempt to normalize, they have been separated into the previous tables.
