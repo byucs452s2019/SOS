@@ -1,0 +1,22 @@
+*This table will hold basic information relating to a User, the ProfileID will contain more references to specific aspects of the user's profile
+
+User(**UserID**, Name, Password, ProfileID)
+  >Foreign Key ProfileID references Profile
+  
+*This table will contain references (ID's) to other aspects of a profile  
+Profile(**ProfileID**, RatingsID, PortfolioID, ReviewsID)
+  >Foreign Key RatingsID references Ratings
+  >Foreign Key PortfolioID references Portfolio
+  >Foreign Key ReviewsID references Reviews
+  
+*Ratings will contain numeric values given by customers of a User  
+Ratings(**RatingsID**, Price, Reliability, Quality, Time)
+
+*Portfolio will have a gallery(array of pictures?) of a user's previous work
+Portfolio(**PortfolioID**, gallery)
+
+*Reviews will have an array of text reviews written by customers
+Reviews(**ReviewsID**, reviews)
+
+**Keys are in bold**
+Every user will have a Profile which will contain all of the above things. In an attempt to normalize, they have been separated into the previous tables.
