@@ -7,7 +7,10 @@
  */
 
 import React, {Component} from 'react';
-import Home from './Views/home';
+import {styles} from './Styles'
+import HomeScreen from './Views/home';
+import NewListingScreen from './Views/NewListingScreen';
+import Register from './Views/register';
 import {Platform, Button, StyleSheet, Text, TextInput, View} from 'react-native';
 import {createStackNavigator, createAppContainer} from 'react-navigation';
 
@@ -24,11 +27,17 @@ class Login extends Component<Props> {
     super(props);
     this.state = {text: '', pass: ''};
 
-    this.handleClick = this.handleClick.bind(this)
+    this.handleLogin = this.handleLogin.bind(this)
+    this.handleRegister = this.handleRegister.bind(this)
   }
 
-  handleClick(){
+  handleLogin(){
+    //TODO: Verify login info
     this.props.navigation.navigate('Home');
+  }
+
+  handleRegister(){
+    this.props.navigation.navigate('Register');
   }
 
 
@@ -56,7 +65,13 @@ class Login extends Component<Props> {
           <Button
             color="white"
             title="Submit"
-            onPress={this.handleClick}
+            onPress={this.handleLogin}
+          />
+        </View>
+        <View style={styles.container_row}>
+          <Button
+            title="New User? - Register"
+            onPress={this.handleRegister}
           />
         </View>
       </View>
@@ -69,7 +84,13 @@ const AppNavigator = createStackNavigator({
     screen: Login
   },
   Home: {
-    screen: Home
+    screen: HomeScreen
+  },
+  Register: {
+    screen: Register
+  },
+  NewListing: {
+    screen: NewListingScreen
   },
   },
   {
@@ -83,32 +104,3 @@ export default class App extends Component<Props> {
     return <AppContainer/>;
   }
 }
-
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  container_row: {
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-    flexDirection: 'row',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-  button: {
-    backgroundColor: "#7c95ca",
-  }
-});

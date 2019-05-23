@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Austin/Desktop/SOS/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/Austin/Desktop/SOS/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

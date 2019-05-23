@@ -1,132 +1,132 @@
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxMethod.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/JSExecutor.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManagerUtils.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView+Internal.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTStatusBarManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSourceCode.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMultipartStreamReader.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFrameUpdate.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceHostingView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxBridge.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAlertManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTI18nUtil.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMaskedViewManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTJSStackFrame.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTObjcExecutor.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSafeAreaViewManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTConvert.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSegmentedControl.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRootView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/JSCExecutorFactory.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTExceptionsManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDevMenu.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRootShadowView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMultipartDataTask.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBorderDrawing.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxConvert.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePicker.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWKWebViewManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAssert.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManagerObserverCoordinator.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentViewManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSlider.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFollyConvert.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAsyncLocalStorage.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTInspectorDevServerHelper.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDevSettings.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceStage.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProgressViewManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFPSGraph.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPackagerClient.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSwitch.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMessageThread.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurface.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSafeAreaShadowView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDisplayLink.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSwitchManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTActivityIndicatorViewManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTViewManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTImageSource.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxUtils.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModuleMethod.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-x86_64.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTEventEmitter.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceRootShadowView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTJavaScriptLoader.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTVersion.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPerfMonitor.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayoutAnimation.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxModule.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentShadowView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-arm64.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-i386.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFont.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollViewManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceRootView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTManagedPointer.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWrapperViewController.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTReloadCommand.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTInspector.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAccessibilityManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDevLoadingView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTTiming.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAppState.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRootContentView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/UIView+React.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayout.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRedBoxExtraDataViewController.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSliderManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDeviceInfo.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/NSDataBigString.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTClipboard.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModuleData.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPerformanceLogger.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTTouchHandler.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTErrorInfo.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLog.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTParserUtils.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSafeAreaViewLocalData.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPlatform.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTKeyboardObserver.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTI18nManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPackagerConnection.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTConvert+CoreLocation.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTKeyCommands.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUtils.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTConvert+Transform.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRefreshControl.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePickerManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWebView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBridge.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWKWebView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView+Layout.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMaskedView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWebViewManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPicker.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceSizeMeasureMode.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-arm.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSegmentedControlManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPickerManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRefreshControlManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTInspectorPackagerConnection.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBundleURLProvider.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTActivityIndicatorView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayoutAnimationGroup.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRedBox.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSafeAreaView.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostViewController.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTEventDispatcher.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostViewManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTNativeModule.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTTouchEvent.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfile.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTComponentData.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalManager.o
-/Users/Austin/Desktop/SOS/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIUtils.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxMethod.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/JSExecutor.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManagerUtils.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView+Internal.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTStatusBarManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSourceCode.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMultipartStreamReader.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFrameUpdate.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceHostingView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxBridge.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAlertManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTI18nUtil.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMaskedViewManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTJSStackFrame.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTObjcExecutor.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSafeAreaViewManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTConvert.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSegmentedControl.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRootView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/JSCExecutorFactory.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTExceptionsManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDevMenu.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRootShadowView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMultipartDataTask.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBorderDrawing.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxConvert.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePicker.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWKWebViewManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAssert.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManagerObserverCoordinator.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentViewManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSlider.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFollyConvert.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAsyncLocalStorage.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTInspectorDevServerHelper.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDevSettings.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceStage.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProgressViewManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFPSGraph.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPackagerClient.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSwitch.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMessageThread.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurface.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSafeAreaShadowView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDisplayLink.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSwitchManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTActivityIndicatorViewManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTViewManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTImageSource.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxUtils.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModuleMethod.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-x86_64.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTEventEmitter.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceRootShadowView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTJavaScriptLoader.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTVersion.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPerfMonitor.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayoutAnimation.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxModule.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentShadowView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-arm64.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-i386.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFont.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollViewManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceRootView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTManagedPointer.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWrapperViewController.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTReloadCommand.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTInspector.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAccessibilityManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDevLoadingView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTTiming.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAppState.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRootContentView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/UIView+React.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayout.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRedBoxExtraDataViewController.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSliderManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDeviceInfo.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/NSDataBigString.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTClipboard.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModuleData.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPerformanceLogger.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTTouchHandler.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTErrorInfo.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLog.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTParserUtils.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSafeAreaViewLocalData.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPlatform.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTKeyboardObserver.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTI18nManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPackagerConnection.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTConvert+CoreLocation.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTKeyCommands.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUtils.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTConvert+Transform.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRefreshControl.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePickerManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWebView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBridge.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWKWebView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView+Layout.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMaskedView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWebViewManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPicker.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceSizeMeasureMode.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-arm.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSegmentedControlManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPickerManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRefreshControlManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTInspectorPackagerConnection.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBundleURLProvider.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTActivityIndicatorView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayoutAnimationGroup.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRedBox.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSafeAreaView.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostViewController.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTEventDispatcher.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostViewManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTNativeModule.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTTouchEvent.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfile.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTComponentData.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalManager.o
+/Users/Austin/Desktop/Save Our Soles/SOS/react/ios/build/SOS/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIUtils.o

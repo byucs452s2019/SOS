@@ -7,49 +7,41 @@
  */
 
 import React, {Component} from 'react';
+import {styles} from '../Styles'
+
+import SettingsScreen from './Settings';
 import {Platform, Button, StyleSheet, Text, TextInput, View} from 'react-native';
-import {createStackNavigator, createAppContainer} from 'react-navigation';
+import {createStackNavigator, createAppContainer, createBottomTabNavigator} from 'react-navigation';
 
 
 type Props = {};
-export default class Home extends Component<Props> {
+export class HomeScreen extends Component<Props> {
   constructor(props){
     super(props);
+
+    this.handleNewListing = this.handleNewListing.bind(this)
+  }
+
+  handleNewListing(){
+    this.props.navigation.navigate('NewListing');
   }
 
   render() {
     return (
-      <View style={styles.container}>
-        <Text> Hello </Text>
+      <View style={styles.container_home}>
+        <View style={styles.testA}>
+          <Button title="new listing"
+            onPress={this.handleNewListing}
+          />
+        </View>
       </View>
     );
   }
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  container_row: {
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-    flexDirection: 'row',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-  button: {
-    backgroundColor: "#7c95ca",
-  }
+const TabNavigator = createBottomTabNavigator({
+  Home: HomeScreen,
+  Settings: SettingsScreen,
 });
+
+export default createAppContainer(TabNavigator);
