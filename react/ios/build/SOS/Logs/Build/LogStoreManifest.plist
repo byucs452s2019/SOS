@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6723CADC-50BD-4F21-A65B-9F0AC7574B13</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6723CADC-50BD-4F21-A65B-9F0AC7574B13.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project SOS with scheme SOS and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580320496.66144598</real>
+			<key>timeStoppedRecording</key>
+			<real>580320525.03751397</real>
+			<key>title</key>
+			<string>Building project SOS with scheme SOS and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6723CADC-50BD-4F21-A65B-9F0AC7574B13</string>
+		</dict>
+		<key>796828FE-A42A-4829-85AA-0B37442DC09C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>796828FE-A42A-4829-85AA-0B37442DC09C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project SOS with scheme SOS and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580320153.865641</real>
+			<key>timeStoppedRecording</key>
+			<real>580320155.33347404</real>
+			<key>title</key>
+			<string>Building project SOS with scheme SOS and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>796828FE-A42A-4829-85AA-0B37442DC09C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

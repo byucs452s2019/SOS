@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/Austin/Desktop/SOS/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /Users/Austin/Desktop/SOS/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /Users/Austin/Desktop/SOS/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/Austin/Desktop/SOS/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Austin/Desktop/SOS/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /Users/Austin/Desktop/SOS/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/Austin/Desktop/SOS/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/Austin/Desktop/SOS/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/Austin/Desktop/SOS/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h
