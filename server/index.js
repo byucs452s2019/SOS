@@ -59,7 +59,7 @@ app.get('/workers', (req, res) => {
 });
 
 app.get('/listings', (req, res) => {
-  return listings;
+  return res.send(listings);
   // return res.send([
   //   {
   //     pic: "",
