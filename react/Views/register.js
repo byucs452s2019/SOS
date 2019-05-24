@@ -18,7 +18,7 @@ export default class Register extends Component<Props> {
   constructor(props){
     super(props);
 
-    this.state = {ProfileType: " "}
+    this.state = {ProfileType: "user"}
     this.handleRegister = this.handleRegister.bind(this)
 
   }
@@ -35,7 +35,11 @@ export default class Register extends Component<Props> {
         <View style={styles.container_row}>
           <Text style={{fontSize: 18, flex: .5, textAlign: 'center'}}>Profile Type: </Text>
           <Picker
-              style={{ justifyContent: 'flex-start', flex:.5}}>
+              selectedValue={this.state.ProfileType}
+              style={{ justifyContent: 'flex-start', flex:.5}}
+              onValueChange={(itemValue, itemIndex) =>
+                this.setState({ProfileType: itemValue})
+              }>
             <Picker.Item label="User" value="user"/>
             <Picker.Item label="Creator" value="creator"/>
           </Picker>

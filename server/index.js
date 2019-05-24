@@ -2,6 +2,7 @@ const express = require('express');
 const http = require('http');
 const Sequelize = require('sequelize');
 const app = express();
+app.use(express.json());
 
 const DB = new Sequelize({dialect: 'sqlite', storage: './db.sqlite'});
 
@@ -41,6 +42,24 @@ const listings = [
   }
 ];
 
+const creators = [
+  {
+    pic: "http://tebbsja.com/kickasso.jpg",
+    name: "Kickasso",
+    user_id: 1
+  },
+  {
+    pic: "http://tebbsja.com/HoHShoes.jpg",
+    name: "HoH Shoes",
+    user_id: 2
+  },
+  {
+    pic: "http://tebbsja.com/JSM.png",
+    name: "JSM CUSTOMS",
+    user_id: 3
+  }
+]
+
 app.get('/workers', (req, res) => {
   return res.send([
     {
@@ -57,6 +76,16 @@ app.get('/workers', (req, res) => {
     }
   ]);
 });
+
+app.get('/creators', (req, res) => {
+  return res.send(creators);
+});
+
+app.post('/creator', (req, res) => {
+  const {pic, name, user_id} = req.body;
+  creators.push({pic, name, user_id});
+  return res.send(true);
+})
 
 app.get('/listings', (req, res) => {
   return res.send(listings);
