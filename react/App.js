@@ -8,6 +8,8 @@
 
 import React, {Component} from 'react';
 import {styles} from './Styles'
+import ProfileScreen from './Views/ProfileScreen';
+import ReviewListingScreen from './Views/ReviewListingScreen';
 import HomeScreen from './Views/home';
 import NewListingScreen from './Views/NewListingScreen';
 import Register from './Views/register';
@@ -91,6 +93,12 @@ const AppNavigator = createStackNavigator({
   },
   NewListing: {
     screen: NewListingScreen
+  },
+  ReviewListing: {
+    screen: ReviewListingScreen
+  },
+  Profile: {
+    screen: ProfileScreen
   },
   },
   {

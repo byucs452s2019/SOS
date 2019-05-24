@@ -7,13 +7,11 @@ export const styles = StyleSheet.create({
     backgroundColor: '#F5FCFF',
   },
   container_home:{
-    flex: 1,
     justifyContent: 'flex-start',
     alignItems: 'flex-end',
     backgroundColor: '#F5FCFF',
   },
   container_listing: {
-    flex: 1,
     justifyContent: 'flex-start',
     alignItems: 'flex-start',
     backgroundColor: '#F5FCFF',
@@ -42,4 +40,11 @@ export const styles = StyleSheet.create({
     borderColor: 'black',
     borderWidth: 1,
     },
+  picture: {
+    margin: 10,
+    height: 80,
+    width: 80,
+    borderColor: 'black',
+    borderWidth: 1,
+  },
 });

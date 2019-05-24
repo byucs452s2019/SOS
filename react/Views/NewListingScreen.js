@@ -26,14 +26,18 @@ export default class NewListingScreen extends Component<Props> {
     this.handleSubmit = this.handleSubmit.bind(this)
   }
 
-  handleSubmit(){
+  async handleSubmit(){
     let pic = this.state.picture
     let title = this.state.title
     let desc = this.state.description
     let id = this.state.userID
     //let temp = new Listing(pic,title,desc,id);
 
-    this.listingPresenter.createListing(pic,title,desc,id);
+    await this.listingPresenter.createListing(pic,title,desc,id);
+
+    this.props.navigation.getParam('callback')();
+    this.props.navigation.navigate('Home');
+
 
     //listingContainer.push(temp)
 
