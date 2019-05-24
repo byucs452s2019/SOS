@@ -9,7 +9,7 @@
 import React, {Component} from 'react';
 import {styles} from '../Styles'
 
-import {Platform, Button, StyleSheet, Text, Alert, TextInput, View} from 'react-native';
+import {Image, Platform, Button, StyleSheet, Text, Alert, TextInput, View} from 'react-native';
 import {createStackNavigator, createAppContainer, createBottomTabNavigator} from 'react-navigation';
 
 
@@ -39,8 +39,11 @@ export default class ReviewListingScreen extends Component<Props> {
     return (
       <View style={styles.container_listing}>
         <View style={{flexDirection: 'row'}}>
-          <View style={styles.picture}>
-            <Text>PICTURE</Text>
+          <View>
+            <Image
+              style={{width:80, height:80}}
+              source={{uri: this.props.navigation.getParam('listing').picture}}
+            />
           </View>
           <Text style={{margin:10}}> {this.props.navigation.getParam('listing').description} </Text>
         </View>

@@ -23,21 +23,21 @@ Listing.init({
 }, {sequelize: DB, modelName: 'listing'});
 const listings = [
   {
-    pic: "",
-    title: "fix my shoes",
-    description: "them be dinged up",
+    pic: "http://tebbsja.com/vans_bape.png",
+    title: "HELP - Custom Vans",
+    description: "I have a black pair of Vans, can someone do these?",
     user_id: 1
   },
   {
-    pic: "",
-    title: "paint my shoes",
-    description: "bright pink please",
+    pic: "http://tebbsja.com/yellowed_soles.png",
+    title: "UNYELLOW?",
+    description: "Space Jam 2009's - Would like to get the soles back to a milky color",
     user_id: 2
   },
   {
-    pic: "",
-    title: "shred them",
-    description: "don't want them anymore",
+    pic: "http://tebbsja.com/crumbling_soles.png",
+    title: "MIDSOLE CRUMBLING - SOLE SWAP?",
+    description: "I Don't have donors for these, how much would a sole swap + donors be?",
     user_id: 3
   }
 ];
