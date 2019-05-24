@@ -20,6 +20,26 @@ Listing.init({
   description: {type: Sequelize.STRING, allowNull: false},
   user_id: {type: Sequelize.INTEGER.UNSIGNED},
 }, {sequelize: DB, modelName: 'listing'});
+const listings = [
+  {
+    pic: "",
+    title: "fix my shoes",
+    description: "them be dinged up",
+    user_id: 1
+  },
+  {
+    pic: "",
+    title: "paint my shoes",
+    description: "bright pink please",
+    user_id: 2
+  },
+  {
+    pic: "",
+    title: "shred them",
+    description: "don't want them anymore",
+    user_id: 3
+  }
+];
 
 app.get('/workers', (req, res) => {
   return res.send([
@@ -39,31 +59,32 @@ app.get('/workers', (req, res) => {
 });
 
 app.get('/listings', (req, res) => {
-  return res.send([
-    {
-      pic: "",
-      title: "fix my shoes",
-      description: "them be dinged up",
-      user_id: 1
-    },
-    {
-      pic: "",
-      title: "paint my shoes",
-      description: "bright pink please",
-      user_id: 2
-    },
-    {
-      pic: "",
-      title: "shred them",
-      description: "don't want them anymore",
-      user_id: 3
-    }
-  ]);
+  return listings;
+  // return res.send([
+  //   {
+  //     pic: "",
+  //     title: "fix my shoes",
+  //     description: "them be dinged up",
+  //     user_id: 1
+  //   },
+  //   {
+  //     pic: "",
+  //     title: "paint my shoes",
+  //     description: "bright pink please",
+  //     user_id: 2
+  //   },
+  //   {
+  //     pic: "",
+  //     title: "shred them",
+  //     description: "don't want them anymore",
+  //     user_id: 3
+  //   }
+  // ]);
 });
 
 app.post('/listing', (req, res) => {
   const {pic, title, description, user_id} = req.body;
-
+  listings.push({pic, title, description, user_id});
   //TODO save these to something
   return res.send(true);
 });
