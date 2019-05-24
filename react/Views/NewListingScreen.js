@@ -9,6 +9,7 @@
 import React, {Component} from 'react';
 //import listingContainer from '../ListingContainer';
 import Listing from '../Models/Listing';
+import ListingPresenter from '../Presenters/ListingPresenter';
 import SettingsScreen from './Settings';
 import {styles} from '../Styles'
 import {Platform, Button, StyleSheet, Text, TextInput, View} from 'react-native';
@@ -21,7 +22,7 @@ export default class NewListingScreen extends Component<Props> {
     super(props);
 
     this.state={picture: "", title: "", description: "", userID: "0", }
-
+    this.listingPresenter = new ListingPresenter();
     this.handleSubmit = this.handleSubmit.bind(this)
   }
 
@@ -30,7 +31,9 @@ export default class NewListingScreen extends Component<Props> {
     let title = this.state.title
     let desc = this.state.description
     let id = this.state.userID
-    let temp = new Listing(pic,title,desc,id);
+    //let temp = new Listing(pic,title,desc,id);
+
+    this.listingPresenter.createListing(pic,title,desc,id);
 
     //listingContainer.push(temp)
 
