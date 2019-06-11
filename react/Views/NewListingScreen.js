@@ -10,7 +10,7 @@ import React, {Component} from 'react';
 //import listingContainer from '../ListingContainer';
 import Listing from '../Models/Listing';
 import ListingPresenter from '../Presenters/ListingPresenter';
-import SettingsScreen from './Settings';
+import SettingsScreen from './SettingsScreen';
 import {styles} from '../Styles'
 import {Platform, Button, StyleSheet, Text, TextInput, View} from 'react-native';
 import {createStackNavigator, createAppContainer, createBottomTabNavigator} from 'react-navigation';

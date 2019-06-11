@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>CDB6A8CF-8BC5-4910-8E0F-166CC2F2FE2F</key>
+		<key>8C128FA7-13F6-4615-BDE6-4100EE6B8B18</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>CDB6A8CF-8BC5-4910-8E0F-166CC2F2FE2F.xcactivitylog</string>
+			<string>8C128FA7-13F6-4615-BDE6-4100EE6B8B18.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,15 +30,15 @@
 			<key>signature</key>
 			<string>Building project SOS with scheme SOS and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>580417962.49294102</real>
+			<real>580438408.29398406</real>
 			<key>timeStoppedRecording</key>
-			<real>580417965.100088</real>
+			<real>580438431.58090794</real>
 			<key>title</key>
 			<string>Building project SOS with scheme SOS and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>CDB6A8CF-8BC5-4910-8E0F-166CC2F2FE2F</string>
+			<string>8C128FA7-13F6-4615-BDE6-4100EE6B8B18</string>
 		</dict>
-		<key>E805E7FD-73F9-49DE-A0CD-04D3D087A786</key>
+		<key>F863E2F4-4651-42F1-AB61-19039AAE637C</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -47,7 +47,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E805E7FD-73F9-49DE-A0CD-04D3D087A786.xcactivitylog</string>
+			<string>F863E2F4-4651-42F1-AB61-19039AAE637C.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -62,13 +62,13 @@
 			<key>signature</key>
 			<string>Building project SOS with scheme SOS and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>580384815.98235905</real>
+			<real>581976380.532884</real>
 			<key>timeStoppedRecording</key>
-			<real>580384818.30621505</real>
+			<real>581976404.59469199</real>
 			<key>title</key>
 			<string>Building project SOS with scheme SOS and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>E805E7FD-73F9-49DE-A0CD-04D3D087A786</string>
+			<string>F863E2F4-4651-42F1-AB61-19039AAE637C</string>
 		</dict>
 	</dict>
 </dict>

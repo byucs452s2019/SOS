@@ -10,9 +10,9 @@ import React, {Component} from 'react';
 import {styles} from './Styles'
 import ProfileScreen from './Views/ProfileScreen';
 import ReviewListingScreen from './Views/ReviewListingScreen';
-import HomeScreen from './Views/home';
+import HomeScreen from './Views/HomeScreen';
 import NewListingScreen from './Views/NewListingScreen';
-import Register from './Views/register';
+import RegisterScreen from './Views/RegisterScreen';
 import {Platform, Button, StyleSheet, Text, TextInput, View} from 'react-native';
 import {createStackNavigator, createAppContainer} from 'react-navigation';
 
@@ -89,7 +89,7 @@ const AppNavigator = createStackNavigator({
     screen: HomeScreen
   },
   Register: {
-    screen: Register
+    screen: RegisterScreen
   },
   NewListing: {
     screen: NewListingScreen
