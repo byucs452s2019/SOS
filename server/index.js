@@ -1,66 +1,44 @@
 const express = require('express');
 const http = require('http');
-const Sequelize = require('sequelize');
 const app = express();
+const fs = require('fs');
+const path = require('path');
+const mongoose = require('mongoose');
+const Listing = require('./Schema/listing');
+const User = require('./Schema/user');
+const AWS = require('aws-sdk');
+
+AWS.config.update({
+  accessKeyId: "AKIAJ67PJWGOC26ERDZA",
+  secretAccessKey: "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"
+});
+const s3 = new AWS.S3();
+
+
+const MongoClient = require('mongodb').MongoClient
+mongoose.connect('mongodb://localhost:27017/SOS');
+
+var db = mongoose.connection;
+
+db.on('error', console.error.bind(console, 'connection error'));
+db.once('open', function() {
+  console.log("connection successful");
+
+});
+
 app.use(express.json());
 
-const DB = new Sequelize({dialect: 'sqlite', storage: './db.sqlite'});
+app.get('/hi', (req, res) => {
 
-class User extends Sequelize.Model {}
-User.init({
-  id: {type: Sequelize.INTEGER, primaryKey: true},
-  username: {type: Sequelize.STRING, allowNull: false},
-  password: {type: Sequelize.STRING, allowNull: false},
-}, {sequelize: DB, modelName: 'user'});
 
-class Listing extends Sequelize.Model {}
-Listing.init({
-  id: {type: Sequelize.INTEGER, primaryKey: true},
-  pic: {type: Sequelize.STRING},
-  title: {type: Sequelize.STRING, allowNull: false},
-  description: {type: Sequelize.STRING, allowNull: false},
-  user_id: {type: Sequelize.INTEGER.UNSIGNED},
-}, {sequelize: DB, modelName: 'listing'});
-const listings = [
-  {
-    pic: "http://tebbsja.com/vans_bape.png",
-    title: "HELP - Custom Vans",
-    description: "I have a black pair of Vans, can someone do these?",
-    user_id: 1
-  },
-  {
-    pic: "http://tebbsja.com/yellowed_soles.png",
-    title: "UNYELLOW?",
-    description: "Space Jam 2009's - Would like to get the soles back to a milky color",
-    user_id: 2
-  },
-  {
-    pic: "http://tebbsja.com/crumbling_soles.png",
-    title: "MIDSOLE CRUMBLING - SOLE SWAP?",
-    description: "I Don't have donors for these, how much would a sole swap + donors be?",
-    user_id: 3
-  }
-];
+  return res.send("worked");
 
-const creators = [
-  {
-    pic: "http://tebbsja.com/kickasso.jpg",
-    name: "Kickasso",
-    user_id: 1
-  },
-  {
-    pic: "http://tebbsja.com/HoHShoes.jpg",
-    name: "HoH Shoes",
-    user_id: 2
-  },
-  {
-    pic: "http://tebbsja.com/JSM.png",
-    name: "JSM CUSTOMS",
-    user_id: 3
-  }
-]
+});
+
+
 
 app.get('/workers', (req, res) => {
+
   return res.send([
     {
       id: 1,
@@ -78,43 +56,83 @@ app.get('/workers', (req, res) => {
 });
 
 app.get('/creators', (req, res) => {
-  return res.send(creators);
+
+  return res.send([
+  {
+    pic: "http://tebbsja.com/kickasso.jpg",
+    name: "Kickasso",
+    user_id: 1
+  },
+  {
+    pic: "http://tebbsja.com/HoHShoes.jpg",
+    name: "HoH Shoes",
+    user_id: 2
+  },
+  {
+    pic: "http://tebbsja.com/JSM.png",
+    name: "JSM CUSTOMS",
+    user_id: 3
+  }
+]);
+
 });
 
 app.post('/creator', (req, res) => {
   const {pic, name, user_id} = req.body;
   creators.push({pic, name, user_id});
   return res.send(true);
-})
+});
+
+app.post('/user', (req, res) => {
+  var tempUser = new User(req.body);
+
+  tempUser.save(function (err, user) {
+    if (err) throw err;
+    console.log("saved");
+  });
+  return res.send(true);
+});
 
 app.get('/listings', (req, res) => {
-  return res.send(listings);
-  // return res.send([
-  //   {
-  //     pic: "",
-  //     title: "fix my shoes",
-  //     description: "them be dinged up",
-  //     user_id: 1
-  //   },
-  //   {
-  //     pic: "",
-  //     title: "paint my shoes",
-  //     description: "bright pink please",
-  //     user_id: 2
-  //   },
-  //   {
-  //     pic: "",
-  //     title: "shred them",
-  //     description: "don't want them anymore",
-  //     user_id: 3
-  //   }
-  // ]);
+  Listing.find((err, listings) => {
+    if (err) throw err;
+    return res.send(listings);
+  });
 });
 
 app.post('/listing', (req, res) => {
-  const {pic, title, description, user_id} = req.body;
-  listings.push({pic, title, description, user_id});
-  //TODO save these to something
+  var img_path = req.body.pic.uri;
+
+  var tempListing = new Listing({
+    title: req.body.title,
+    description: req.body.description,
+    user_id: req.body.user_id,
+  });
+
+  var bucket = 'sosphotos';
+
+  var params = {
+    Bucket: bucket,
+    Body: fs.createReadStream(img_path),
+    Key: "folder/"+Date.now()+"_"+path.basename(img_path),
+    ContentType: "image/jpeg"
+  };
+
+  s3.upload(params, function(err, data) {
+    if (err){
+      console.log("error ", err);
+    }
+    if (data) {
+      //console.log(data.Location);
+      tempListing.pic = data.Location
+
+      tempListing.save(function (err, listing) {
+        if (err) throw err;
+        console.log("saved");
+      });
+    }
+  })
+
   return res.send(true);
 });
 
