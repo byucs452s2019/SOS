@@ -11,4 +11,10 @@ dependencies: \
   /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Base/RCTBridgeModule.h \
   /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Base/RCTFrameUpdate.h \
   /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/ios/build/SOS/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h

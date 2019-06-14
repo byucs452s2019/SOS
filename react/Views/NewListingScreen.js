@@ -8,6 +8,7 @@
 
 import React, {Component} from 'react';
 //import listingContainer from '../ListingContainer';
+import ImagePicker from 'react-native-image-picker';
 import Listing from '../Models/Listing';
 import ListingPresenter from '../Presenters/ListingPresenter';
 import SettingsScreen from './SettingsScreen';
@@ -22,8 +23,25 @@ export default class NewListingScreen extends Component<Props> {
     super(props);
 
     this.state={picture: "", title: "", description: "", userID: "0", }
-    this.listingPresenter = new ListingPresenter();
-    this.handleSubmit = this.handleSubmit.bind(this)
+    this.listingPresenter = new ListingPresenter(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+    this.handleImage = this.handleImage.bind(this);
+  }
+
+  handleImage(){
+    ImagePicker.showImagePicker({
+      title: "Select Image"
+    }, res => {
+      if (res.didCancel){
+        console.log("cancel");
+      } else if (res.error){
+        console.log("error", res.error);
+      } else {
+        this.setState({
+          picture: res
+        });
+      }
+    });
   }
 
   async handleSubmit(){
@@ -31,18 +49,11 @@ export default class NewListingScreen extends Component<Props> {
     let title = this.state.title
     let desc = this.state.description
     let id = this.state.userID
-    //let temp = new Listing(pic,title,desc,id);
 
     await this.listingPresenter.createListing(pic,title,desc,id);
 
-    this.props.navigation.getParam('callback')();
-    this.props.navigation.navigate('Home');
-
-
-    //listingContainer.push(temp)
-
-    //console.log(listingContainer[0].toString())
-
+    //this.props.navigation.getParam('callback')();
+    //this.props.navigation.navigate('Home');
 
   }
 
@@ -51,8 +62,12 @@ export default class NewListingScreen extends Component<Props> {
     return (
       <View style={styles.container_listing}>
 
-        <View style={styles.testC}>
-          <Text>Upload Pic </Text>
+        <View style={styles.button}>
+          <Button
+            color="white"
+            title="Upload Image"
+            onPress={this.handleImage}
+            />
         </View>
         <TextInput
           placeholder="Title"

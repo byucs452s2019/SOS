@@ -1,9 +1,10 @@
 export default class Creator{
 
-  constructor(picture,name,userID){
+  constructor(picture,name,userID,starRating){
     this.picture = picture;
     this.name = name
-    this.userID = userID;
+    this.id = userID;
+    this.starRating = starRating;
   }
 
   toString(){

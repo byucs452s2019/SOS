@@ -28,6 +28,7 @@ export class HomeScreen extends Component<Props> {
   }
 
   handleListingClick(lis){
+    console.log(lis);
     this.props.navigation.navigate('ReviewListing', {listing: lis});
   }
 
@@ -45,17 +46,17 @@ export class HomeScreen extends Component<Props> {
   }
 
   async populateCreators(){
-    let response = await fetch('http://localhost:8080/creators');
+    let response = await fetch('http://74.208.18.28:8080/creators');
     let responseJson = await response.json();
 
     const tempCreators = responseJson.map(function(obj) {
-      return new Creator(obj.pic, obj.name, obj.user_id);
+      return new Creator(obj.avatar, obj.businessName, obj.id,obj.avgStarCreator);
     });
     this.setState({creators: tempCreators});
   }
 
   async populateListings(){
-    let response = await fetch('http://localhost:8080/listings');
+    let response = await fetch('http://74.208.18.28:8080/listings');
     let responseJson = await response.json();
     //pic title description user_id
     const tempListings = responseJson.map(function(obj) {
@@ -97,6 +98,8 @@ export class HomeScreen extends Component<Props> {
           <View style={{flex: 1,backgroundColor: '#F5FCFF', flexDirection: 'row', justifyContent: 'center'}}>
 
             <FlatList
+              keyExtractor={(item, index) => index.toString()}
+              horizontal={true}
               data={this.state.creators}
               renderItem={({item}) =>
               <TouchableOpacity style={{margin:10}} onPress={() => this.handleProfileClick(item)}>
@@ -113,8 +116,6 @@ export class HomeScreen extends Component<Props> {
 
               </TouchableOpacity>
             }
-            keyExtractor={(item, index) => index.toString()}
-            horizontal={true}
             />
 
 

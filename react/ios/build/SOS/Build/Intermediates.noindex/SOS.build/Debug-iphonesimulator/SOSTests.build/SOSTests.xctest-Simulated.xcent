@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>www.digicert.com.org.reactjs.native.example.SOSTests</string>
+	<string>49496CPXPP.org.reactjs.native.example.SOSTests</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>www.digicert.com.org.reactjs.native.example.SOSTests</string>
+		<string>49496CPXPP.org.reactjs.native.example.SOSTests</string>
 	</array>
 </dict>
 </plist>

@@ -5,37 +5,35 @@
  * @format
  * @flow
  */
-
+import './shim.js';
 import React, {Component} from 'react';
 import {styles} from './Styles'
+import LoginPresenter from './Presenters/LoginPresenter';
 import ProfileScreen from './Views/ProfileScreen';
 import ReviewListingScreen from './Views/ReviewListingScreen';
 import HomeScreen from './Views/HomeScreen';
 import NewListingScreen from './Views/NewListingScreen';
 import RegisterScreen from './Views/RegisterScreen';
-import {Platform, Button, StyleSheet, Text, TextInput, View} from 'react-native';
+import {Platform, Button, Image, StyleSheet, Text, TextInput, View} from 'react-native';
 import {createStackNavigator, createAppContainer} from 'react-navigation';
 
-const instructions = Platform.select({
-  ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
-  android:
-    'Double tap R on your keyboard to reload,\n' +
-    'Shake or press menu button for dev menu',
-});
 
 type Props = {};
 class Login extends Component<Props> {
   constructor(props){
     super(props);
     this.state = {text: '', pass: ''};
-
+    this.loginPresenter = new LoginPresenter(this);
     this.handleLogin = this.handleLogin.bind(this)
     this.handleRegister = this.handleRegister.bind(this)
   }
 
   handleLogin(){
     //TODO: Verify login info
-    this.props.navigation.navigate('Home');
+    let username = this.state.text;
+    let password = this.state.pass;
+    this.loginPresenter.handleLogin(username,password);
+    //this.props.navigation.navigate('Home');
   }
 
   handleRegister(){
@@ -46,7 +44,10 @@ class Login extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <Text>SOS LOGO PLACEHOLDER</Text>
+        <Image
+          style={{width:200, height:200}}
+          source={{uri:'http://tebbsja.com/sos.png'}}
+        />
 
         <View style={styles.container_row}>
           <Text>Username: </Text>
@@ -60,6 +61,7 @@ class Login extends Component<Props> {
           <Text>Password: </Text>
           <TextInput
             placeholder="Password"
+            secureTextEntry={true}
             onChangeText={(pass) => this.setState({pass})}
           />
         </View>

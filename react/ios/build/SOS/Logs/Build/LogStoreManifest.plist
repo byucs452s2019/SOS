@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>8C128FA7-13F6-4615-BDE6-4100EE6B8B18</key>
+		<key>15ACC568-E97F-4490-B63D-952FD02AF27F</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,11 +15,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8C128FA7-13F6-4615-BDE6-4100EE6B8B18.xcactivitylog</string>
+			<string>15ACC568-E97F-4490-B63D-952FD02AF27F.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>SOS project</string>
@@ -30,15 +30,15 @@
 			<key>signature</key>
 			<string>Building project SOS with scheme SOS and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>580438408.29398406</real>
+			<real>582181703.93560803</real>
 			<key>timeStoppedRecording</key>
-			<real>580438431.58090794</real>
+			<real>582181708.16172004</real>
 			<key>title</key>
 			<string>Building project SOS with scheme SOS and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>8C128FA7-13F6-4615-BDE6-4100EE6B8B18</string>
+			<string>15ACC568-E97F-4490-B63D-952FD02AF27F</string>
 		</dict>
-		<key>F863E2F4-4651-42F1-AB61-19039AAE637C</key>
+		<key>AE50314D-3413-488F-B0BF-2E105DBE4985</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -47,11 +47,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F863E2F4-4651-42F1-AB61-19039AAE637C.xcactivitylog</string>
+			<string>AE50314D-3413-488F-B0BF-2E105DBE4985.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>SOS project</string>
@@ -62,13 +62,13 @@
 			<key>signature</key>
 			<string>Building project SOS with scheme SOS and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>581976380.532884</real>
+			<real>582177501.20881498</real>
 			<key>timeStoppedRecording</key>
-			<real>581976404.59469199</real>
+			<real>582177537.57530797</real>
 			<key>title</key>
 			<string>Building project SOS with scheme SOS and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>F863E2F4-4651-42F1-AB61-19039AAE637C</string>
+			<string>AE50314D-3413-488F-B0BF-2E105DBE4985</string>
 		</dict>
 	</dict>
 </dict>

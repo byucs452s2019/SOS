@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Austin/Desktop/SOS/node_modules/react-native/React/Base/RCTVersion.m \
-  /Users/Austin/Desktop/SOS/node_modules/react-native/React/Base/RCTVersion.h
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Base/RCTVersion.m \
+  /Users/Austin/Desktop/Save\ Our\ Soles/SOS/react/node_modules/react-native/React/Base/RCTVersion.h
