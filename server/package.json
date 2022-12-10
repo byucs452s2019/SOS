@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.473.0",
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "mongodb": "^3.2.7",
     "mongoose": "^5.5.14",
     "sequelize": "^5.8.6",
